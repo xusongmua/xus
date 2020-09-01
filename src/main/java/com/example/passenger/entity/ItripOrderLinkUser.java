@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class ItripOrderLinkUser {
     /**
-     * 主键
+     * 主键11
      */
     private Long id;
 
